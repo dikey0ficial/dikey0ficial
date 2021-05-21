@@ -1,2 +1,2 @@
-# Hello world! I'm Egor
-## languages: html/css/js, golang, python
+# Hello world! I'm d!key (sorry about only nickname)
+## languages: go, html/css/js
