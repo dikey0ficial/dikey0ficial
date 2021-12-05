@@ -8,5 +8,5 @@
     - telegram: [@dikey0ficial](https://t.me/dikey0ficial)
     - discord: `dikey_0ficial#2031`
     - email: [admin@dikey0ficial.rf.gd](mailto:admin@dikey0ficial.rf.gd)
-    - twotter: [@dikey0ficial](https://twitter.com/@dikey0ficial)
+    - twitter: [@dikey0ficial](https://twitter.com/@dikey0ficial)
     - vk: [dikey_oficial](https://vk.com/dikey_oficial)
