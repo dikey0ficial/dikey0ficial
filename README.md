@@ -1,5 +1,5 @@
 # Hello world! I'm d!key
-### languages: go, html/css/js
+### languages: go, html/css
  - :ru: I live in Tver, Russia
  - 👨‍💻 My favourite languge is Go
  - 🟢 My hobbies: programming, playing the guitar (acoustic), making electronic music (in FL20), reading
