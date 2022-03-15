@@ -1,8 +1,7 @@
 # Hello world! I'm d!key
-### languages: go, html/css
  - :ru: I live in Tver, Russia
  - 👨‍💻 My favourite languge is Go
- - 🟢 My hobbies: programming, playing the guitar (acoustic), making music (in FL20 and Reaper), reading
+ - 🟢 My hobbies: programming, playing the guitar (classic), making music (in FL20 and Reaper), reading
  - 💤 Procrastinator
  - 💬 Contact me: 
     - telegram: [@dikey0ficial](https://t.me/dikey0ficial)
