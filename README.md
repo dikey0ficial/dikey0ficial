@@ -9,4 +9,4 @@
     - email: [admin@dikey0ficial.rf.gd](mailto:admin@dikey0ficial.rf.gd)
     - twitter: [@dikey0ficial](https://twitter.com/@dikey0ficial)
     - vk: [dikey_oficial](https://vk.com/dikey_oficial)
- - 📃 Some of my projects are in [my Gitea profile](https://gitea.com/dikey0ficial)
+ - 📃 Some of my projects are in [my Gitea profile](https://gitea.com/dikey0ficial) and may be something will be in [my GitFlic profile](https://gitflic.ru/user/dikey0ficial) 
